@@ -8,7 +8,7 @@ Your task is to create a classification model that will predict the class of inc
 
 Requirements
 
-EDA: Perform exploratory data analysis (EDA) to understand the dataset and its relevance to classification algorithms.
-Data Preparation: Prepare the data by handling missing values, encoding categorical variables, and splitting data into training and testing sets.
-Classification Algorithms: Implement at least 2 classification algorithms, test them, and discuss findings.
-Model Evaluation: Evaluate final classification algorithm using test data and comment on accuracy differential between training and testing sets.
+EDA: Perform exploratory data analysis (EDA) to understand the dataset and its relevance to classification algorithms.  
+Data Preparation: Prepare the data by handling missing values, encoding categorical variables, and splitting data into training and testing sets.  
+Classification Algorithms: Implement at least 2 classification algorithms, test them, and discuss findings.  
+Model Evaluation: Evaluate final classification algorithm using test data and comment on accuracy differential between training and testing sets.  
